@@ -1,7 +1,7 @@
-name:          Code Guide by @mdo
+name:          Code Guide by @serge_el
 description:   Standards for developing flexible, durable, and sustainable HTML and CSS.
-url:           http://codeguide.co
+url:           http://dg-code-guide.david-goliath.com
 
 markdown:      rdiscount
 permalink:     pretty
-pygments:      true
+highlighter:   rouge
